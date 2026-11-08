@@ -1,4 +1,4 @@
-#Recomendation Systems course projects
+# Recomendation Systems course projects
 
 ## Домашнее задание 1
 
